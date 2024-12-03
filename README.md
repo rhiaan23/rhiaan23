@@ -27,7 +27,7 @@ I'm a junior at Princeton University pursuing my Bachelor's in Computer Science.
   <a href="mailto:rhiaan@princeton.edu"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=rhiaan23.rhiaan23)
+![visitor badge](https://vbr.nathanchung.dev/badge?page_id=rhiaan23)
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
