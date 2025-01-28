@@ -32,25 +32,3 @@ I'm a junior at Princeton University pursuing my Bachelor's in Computer Science.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-
-### Languages:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,matlab,javascript,html,css,swift,r,latex,md&perline=10" />
-</p>
-
-### Frameworks:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,pytorch,sklearn&perline=10" />
-</p>
-
-### Services:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=gcp,aws,firebase,docker,kubernetes,github,mysql,postgres,mongodb,nginx,selenium,linux&perline=10" />
-</p>
-
-### Tools:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=npm,nodejs,vim,vscode,idea,sublime,figma,obsidian&perline=10" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
